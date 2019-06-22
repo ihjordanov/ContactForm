@@ -1,7 +1,7 @@
 {
     "name": "ihjordanov/contactform",
     "description": "Test Laravel Package",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ilian Jordanov",
