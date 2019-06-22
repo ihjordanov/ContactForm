@@ -40,9 +40,9 @@ If you discover any security related issues, please email author email instead o
 - [author name][link-author]
 - [All Contributors][link-contributors]
 
-## License
+## LICENSE
 
-license. Please see the [license file](license.md) for more information.
+This project is released under the MIT [license](https://github.com/ihjordanov/ContactForm/blob/master/license.md).
 
 [ico-version]: https://img.shields.io/packagist/v/ihjordanov/contactform.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/ihjordanov/contactform.svg?style=flat-square
